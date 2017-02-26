@@ -13,7 +13,7 @@
 ],
 
 "accessories": [
-{    "accessory": "HTTP_NEO",
+{    "accessory": "HTTP-NEO",
 "name": "Neo Lamp",
 
 "switch": {
